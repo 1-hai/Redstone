@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "b4feaaeb"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_timelimit.smx"
+  }
+}

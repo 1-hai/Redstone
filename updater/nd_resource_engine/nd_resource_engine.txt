@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "f117366a"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_resource_engine.smx"
+  }
+}

@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "a318cb65"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/updater.smx"
+  }
+}
